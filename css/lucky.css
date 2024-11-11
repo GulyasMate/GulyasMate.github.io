@@ -25,4 +25,5 @@ nav a:first-child {
     background-image: url(../img/hatter.jpg);
     background-position: center center;
     background-size: cover;
+    height: 400px;
 }
